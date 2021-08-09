@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning **vuejs**
+- 🌱 I’m currently learning **Sql**
 
 - 💬 Ask me about-> **Don't ask me XD**
 
@@ -30,4 +30,4 @@
 ![Apoorve's GitHub stats](https://github-readme-stats.vercel.app/api?username=shukapurv&show_icons=true)
 </p>
 
-
+<img align="center" src="https://freepngimg.com/thumb/anime_boy/25983-5-anime-boy-clipart.png" width="30%" height="30%"/>
