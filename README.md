@@ -1,7 +1,4 @@
-<h1 align="center">Hey there ..I am Apoorve shukla</h1>
-<h3 align="center">Lemme sleep..</h3>
-
-<img align="right" alt="Code gif" src="https://media0.giphy.com/media/836HiJc7pgzy8iNXCn/200w.webp?cid=ecf05e47bzir0tids6lb7xt69fubv1dn6w0pvd16cqesxe70&rid=200w.webp&ct=g" width="40%" />
+<img align="center" alt="Code gif" src="https://github.com/shukapurv/shukapurv/blob/main/Media2.gif" width="100%" />
 
 
 
@@ -27,4 +24,6 @@
 
 ![Apoorve's GitHub stats](https://github-readme-stats.vercel.app/api?username=shukapurv&theme=dark&show_icons=true)
 
-
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=shukapurv.shukapurv" alt="visitor badge"/>
+</p>
