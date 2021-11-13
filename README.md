@@ -49,12 +49,9 @@ Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/maste
 
 ***Stats***
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=shukapurv&theme=dark">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shukapurv&theme=dark" alt="shukapurv's github stats" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=shukapurv&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shukapurv&show_icons=true&theme=dark" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shukapurv&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shukapurv&show_icons=true&theme=radical)
+
 <p>
 
 
